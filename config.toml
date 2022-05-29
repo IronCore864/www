@@ -1,0 +1,81 @@
+baseURL = "https://www.guotiexin.com"
+defaultContentLanguage = "en"
+languageCode = "en"
+hasCJKLanguage = true
+title = "Tiexin Guo"
+
+theme = "LoveIt"
+
+[params]
+  version = "0.2.X"
+  [params.header]
+    [params.header.title]
+      pre = "<i class='fa fa-solid fa-terminal'></i>"
+      post = "<i class='fa fa-solid fa-user-secret'></i>"
+      name = "Tiexin Guo"
+  [params.page]
+    [params.page.toc]
+      enable = true
+      auto = true
+  [params.home]
+    [params.home.profile]
+      enable = true
+      title = "Tiexin Guo"
+      subtitle = "IronCore's Homepage"
+      typeit = true
+      social = true
+  [params.social]
+    GitHub = "IronCore864"
+    Medium = "4th-coffee"
+    Devto = "ironcore864"
+    RSS = true
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 30
+    dateFormat = "01-02"
+    rss = 10
+  [params.footer]
+    enable = true
+    custom = 'Copyright: Tiexin Guo | CC BY-NC 4.0'
+    hugo = false
+    copyright = true
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 3
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 4
+  [[menu.main]]
+    identifier = "posts"
+    name = "Archive"
+    url = "/posts/"
+    weight = 5
+  [[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw'></i>"
+    name = ""
+    url = "https://github.com/ironcore864"
+    weight = 6
+
+# Hugo 解析文档的配置
+[markup]
+  # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
