@@ -3,8 +3,8 @@ title: "A Brief Introduction to Code Review: Everything You Want to Know"
 subtitle: "How-To Review GitHub Open-Source Code (And Everything Else)"
 author: "Tiexin Guo | 郭铁心"
 authorLink: https://www.guotiexin.com
-tags: ["how-to", "code review", "english-articles", "open-source", "github"]
-categories: ["DevStream How-To", "Open Source", "English Articles"]
+tags: ["how-to", "code review", "open-source", "github"]
+categories: ["How-To", "Open-Source"]
 date: 2022-06-06
 
 draft: false
