@@ -34,7 +34,7 @@ I'll give you an example. There is a chapter "SIX FOUNDATIONAL KEY PRINCIPLES AN
 > 
 > 2. Have Clear and Objective Leadership
 > 
-> 3. “Clear Culture and Expectations
+> 3. Clear Culture and Expectations
 > 
 > 4. Focus on Relationships, Trust, and Engagement
 > 
