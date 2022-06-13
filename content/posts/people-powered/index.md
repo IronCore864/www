@@ -132,14 +132,14 @@ The goal is to make "contributing to your project" as easy, and as intuitive as 
 
 To achieve this, there are 3 action items that I can recommend:
 
-1. Write good documentation with details.
+**1 Write good documentation with details.**
 
 - The docs should set the _right expectations_. This action item is related to section 2.1.
 - State what needs to be done to create an issue. Searching existing issues to make sure there are no duplicated ones?
 - State what needs to be done clearly when submitting a PR. Unit tests? Local test? Screenshot? Anything else?
 - State the whole process in detail. When will the PR be reviewed? How does the review process work? When will it be released? Documenting all the details can smooth the whole contribution process.
 
-2. Minimize the required steps.
+**2 Minimize the required steps.**
 
 - Write a "quick start" documentation: this is probably the very first one that contributors are going to read.
 - State clearly what are the tools and dependencies.
@@ -147,7 +147,7 @@ To achieve this, there are 3 action items that I can recommend:
 - Set up the environment with automation, if possible. This also reduces one or even multiple manual steps.
 - State clearly how to build/test the project.
 
-3. Good First Issues
+**3 Good First Issues**
 
 A great way to encourage new contributors is to prepare some issues that are suitable for new people to the project, and make those issues easy to find.
 
