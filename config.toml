@@ -42,36 +42,41 @@ theme = "LoveIt"
 
 [menu]
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 3
+    weight = 1
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "https://cv.guotiexin.com/"
+    weight = 2
   [[menu.main]]
     identifier = "portfolio"
     name = "Portfolio"
     url = "/portfolio"
+    weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
     weight = 4
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
   [[menu.main]]
     identifier = "posts"
     name = "Archive"
     url = "/posts/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = "github"
     pre = "<i class='fab fa-github fa-fw'></i>"
     name = ""
     url = "https://github.com/ironcore864"
-    weight = 6
+    weight = 7
 
 # Hugo 解析文档的配置
 [markup]
