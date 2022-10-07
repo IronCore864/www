@@ -6,11 +6,9 @@ tags: ["devstream"]
 categories: ["DevStream"]
 date: 2022-03-21
 
-resources:
-- name: "featured-image"
-  src: "donganlake.jpg"
-- name: "featured-image-preview"
-  src: "donganlake.jpg"
+cover:
+  image: "donganlake.jpg"
+  alt: "dong'an lake"
 ---
 
 Hello, and welcome to the DevStream blog!

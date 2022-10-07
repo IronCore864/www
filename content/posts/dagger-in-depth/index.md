@@ -6,11 +6,9 @@ tags: ["ci", "devops"]
 categories: ["CI", "DevOps"]
 date: 2022-04-12
 
-resources:
-- name: "featured-image"
-  src: "banner.jpg"
-- name: "featured-image-preview"
-  src: "banner.jpg"
+cover:
+  image: "banner.jpg"
+  alt: "chongqing"
 ---
 
 ## 1 What is Dagger?

@@ -5,11 +5,10 @@ authorLink: https://github.com/IronCore864
 tags: ["devops"]
 categories: ["On DevOps"]
 date: 2022-05-10
-resources:
-- name: "featured-image"
-  src: "norway.jpeg"
-- name: "featured-image-preview"
-  src: "norway.jpeg"
+
+cover:
+  image: "norway.jpeg"
+  alt: "norway"
 ---
 
 > Note: opinions are my own. They don't represent my current company or any previous companies I've worked for.

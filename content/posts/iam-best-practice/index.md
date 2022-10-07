@@ -6,11 +6,9 @@ tags: ["security", "devsecops", "aws", "iam", "identity management", "access man
 categories: ["Security", "DevSecOps", "AWS", "IAM", "Cloud"]
 date: 2022-06-10
 
-resources:
-- name: "featured-image"
-  src: "featured.jpg"
-- name: "featured-image-preview"
-  src: "featured.jpg"
+cover:
+  image: "featured.jpg"
+  alt: "iam"
 ---
 
 *This blog is originally published on [GitGuardian blog](https://blog.gitguardian.com/aws-iam-security-best-practices/).*

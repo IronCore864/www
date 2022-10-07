@@ -6,11 +6,9 @@ tags: ["open-source", "community"]
 categories: ["Open-Source", "Community"]
 date: 2022-06-13
 
-resources:
-- name: "featured-image"
-  src: "panda.jpg"
-- name: "featured-image-preview"
-  src: "panda.jpg"
+cover:
+  image: "panda.jpg"
+  alt: "panda"
 ---
 
 ## 0 "People Powered" -- the Book

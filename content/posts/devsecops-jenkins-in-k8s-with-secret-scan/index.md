@@ -6,11 +6,10 @@ tags: ["devsecops", "ci"]
 categories: ["DevSecOps", "CI"]
 date: 2022-05-12
 canonical_url: 'https://blog.gitguardian.com/how-to-setup-jenkins-with-gitguardian-kubernetes/'
-resources:
-- name: "featured-image"
-  src: "22W16-blog-how-to-setup.png"
-- name: "featured-image-preview"
-  src: "22W16-blog-how-to-setup.png"
+
+cover:
+  image: "22W16-blog-how-to-setup.png"
+  alt: "devsecops"
 ---
 
 _This blog post is first published at [GitGuardian blog](https://blog.gitguardian.com/how-to-setup-jenkins-with-gitguardian-kubernetes/)._

@@ -9,9 +9,10 @@ date: 2022-06-06
 
 draft: false
 description: "A Brief Introduction to Code Review: How-To Review GitHub Open-Source Code (And Everything Else)"
-resources:
-- name: "featured-image"
-  src: "mountain.jpg"
+
+cover:
+  image: "mountain.jpg"
+  alt: "mountain"
 ---
 
 This is [Tiexin Guo](https://www.guotiexin.com/), [DevStream](https://github.com/devstream-io/devstream) [PMC](https://github.com/orgs/devstream-io/teams/pmc) Chair (an open-source DevOps project with an enthusiastic community.)

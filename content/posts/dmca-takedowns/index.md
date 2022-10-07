@@ -6,16 +6,12 @@ tags: ["security", "devsecops"]
 categories: ["Security", "DevSecOps"]
 date: 2022-05-24
 
-resources:
-- name: "featured-image"
-  src: "dmca.png"
-- name: "featured-image-preview"
-  src: "dmca.png"
+cover:
+  image: "dmca.png"
+  alt: "dmca"
 ---
 
-{{< admonition >}}
 This article is orignally published at [GitGuardian Blog](https://blog.gitguardian.com/dmca-takedowns/).
-{{< /admonition >}}
 
 ## What is DMCA?
 
