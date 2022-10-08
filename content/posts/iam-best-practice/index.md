@@ -1,7 +1,7 @@
 ---
 title: "AWS IAM Security Best Practices"
 author: "Tiexin Guo | 郭铁心"
-authorLink: https://github.com/IronCore864
+authorLink: https://www.guotiexin.com
 tags: ["security", "devsecops", "aws", "iam", "identity management", "access management", "cloud computing", "cloud"]
 categories: ["Security", "DevSecOps", "AWS", "IAM", "Cloud"]
 date: 2022-06-10

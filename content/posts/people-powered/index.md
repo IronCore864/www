@@ -1,7 +1,7 @@
 ---
 title: "People Powered - Solid Action Items to Build Your Open-Source Community from Scratch"
 author: "Tiexin Guo | 郭铁心"
-authorLink: https://github.com/IronCore864
+authorLink: https://www.guotiexin.com
 tags: ["open-source", "community"]
 categories: ["Open-Source", "Community"]
 date: 2022-06-13

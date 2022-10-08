@@ -1,7 +1,7 @@
 ---
 title: "Python Tutorial: 8. Input and File Handling"
-author: "IronCore"
-authorLink: https://www.guotiexin.com/
+author: "Tiexin Guo | 郭铁心"
+authorLink: https://www.guotiexin.com
 tags: ["python"]
 categories: ["Python Tutorial"]
 date: 2022-07-18

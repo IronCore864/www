@@ -1,7 +1,7 @@
 ---
 title: "Python Tutorial: 2. An Informal Introduction to Python"
-author: "IronCore"
-authorLink: https://www.guotiexin.com/
+author: "Tiexin Guo | 郭铁心"
+authorLink: https://www.guotiexin.com
 tags: ["python"]
 categories: ["Python Tutorial"]
 date: 2022-06-01

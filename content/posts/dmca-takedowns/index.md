@@ -1,7 +1,7 @@
 ---
 title: "A Brief History of the DMCA"
 author: "Tiexin Guo | 郭铁心"
-authorLink: https://github.com/IronCore864
+authorLink: https://www.guotiexin.com
 tags: ["security", "devsecops"]
 categories: ["Security", "DevSecOps"]
 date: 2022-05-24
